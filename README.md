@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Rishabh Dubey, 3+ years of expertise in crafting high-quality web applications with React.JS.<br>Proficient in Redux.JS, JavaScript, TypeScript, HTML, and CSS.<br>Committed to building user-centric solutions for optimal user experience.<br>Experienced in Ant Design for efficient UI development.<br>Well-versed in Git and GitLab for streamlined code management.<br>Utilizes JIRA for efficient project workflows and stakeholder communication.<br>Passionate about staying updated with the latest frontend technologies.
+<br>👋 Hi, I’m Rishabh Dubey, 💼 3+ years of expertise in crafting high-quality web applications with React.JS.<br>🚀 Proficient in Redux.JS, JavaScript, TypeScript, HTML, and CSS.<br>💡 Committed to building user-centric solutions for optimal user experience.<br>🎨 Experienced in Ant Design for efficient UI development.<br>🔗 Well-versed in Git and GitLab for streamlined code management.<br>🔧 Utilizes JIRA for efficient project workflows and stakeholder communication.<br>📚 Passionate about staying updated with the latest frontend technologies.
 
 
 ## 🌐 Socials:
