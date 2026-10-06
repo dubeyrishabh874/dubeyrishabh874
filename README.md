@@ -6,9 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=2563EB&center=true&vCenter=true&width=700&lines=Building+AI-powered+enterprise+frontends;Next.js+%7C+React+%7C+TypeScript+%7C+Micro+Frontends;Integrated+70%2B+AI+agents+into+production+workflows;Let%27s+talk+AI+x+UI+architecture)](https://github.com/dubeyrishabh874)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-dubey-a2b427171/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-dubeyy/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dubeyrishabh874@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR-PORTFOLIO-URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=firefox&logoColor=white)](https://rishabhdubey-dev.netlify.app/)
 
 </div>
 
