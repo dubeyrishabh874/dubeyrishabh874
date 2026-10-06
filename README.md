@@ -1,27 +1,143 @@
-# 💫 About Me:
-<br>👋 Hi, I’m Rishabh Dubey, 💼 3+ years of expertise in crafting high-quality web applications with React.JS.<br>🚀 Proficient in Redux.JS, JavaScript, TypeScript, HTML, and CSS.<br>💡 Committed to building user-centric solutions for optimal user experience.<br>🎨 Experienced in Ant Design for efficient UI development.<br>🔗 Well-versed in Git and GitLab for streamlined code management.<br>🔧 Utilizes JIRA for efficient project workflows and stakeholder communication.<br>📚 Passionate about staying updated with the latest frontend technologies.
+<!-- Save this as README.md in your repo: github.com/dubeyrishabh874/dubeyrishabh874 -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/rishabh.dubey.90038882?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dubeyrishabh874/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-dubey-a2b427171/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Rishabh-Dubey-the-builder) 
+<img src="./assets/banner.svg" alt="Rishabh Dubey, Senior Software Engineer" width="100%" />
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dubeyrishabh874&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dubeyrishabh874&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyrishabh874&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=2563EB&center=true&vCenter=true&width=700&lines=Building+AI-powered+enterprise+frontends;Next.js+%7C+React+%7C+TypeScript+%7C+Micro+Frontends;Integrated+70%2B+AI+agents+into+production+workflows;Let%27s+talk+AI+x+UI+architecture)](https://github.com/dubeyrishabh874)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dubeyrishabh874&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-dubey-a2b427171/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dubeyrishabh874@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR-PORTFOLIO-URL)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dubeyrishabh874&limit=5&theme=nord&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dubeyrishabh874&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+I'm a **Senior Software Engineer at Schindler** (Hyderabad, India) with **6 years** of experience building scalable web applications for enterprise, government, and client-facing platforms.
+
+Right now I work at the intersection of **frontend engineering and AI**: designing the UI layer where LLM-based agents meet real users, so that AI output becomes something people can actually act on.
+
+- 🤖 Led frontend integration of **70+ AI agents** into production enterprise workflows
+- 📉 AI-powered predictive maintenance reporting contributed to a **20% reduction in repeat service calls**
+- 🏛️ Previously built statewide **law-enforcement case-management dashboards** (CCTNS V2, Telangana Police)
+- 🧑‍🏫 I mentor junior developers, run code reviews, and join architecture discussions
+- 🏆 Team of the Year 2025 (Schindler Global SIS GAS) · Star Performer 2024 (Schindler AI)
+
+## 🔭 What I'm Exploring
+
+- Agent-to-UI patterns: **Web MCP**, **A2UI**-style interfaces, streaming agent responses
+- **RAG** and LLM integration with **Azure OpenAI**
+- **Micro Frontend** architecture at scale
+- Performance, accessibility, and SEO with **Next.js (SSR / SSG / ISR)**
+
+## 💬 Ask Me About
+
+| Topic | What I can talk about |
+|---|---|
+| 🤖 AI in the frontend | Wiring LLM agents into real-time UIs, managing agent context and responses |
+| 🧩 Micro Frontends | Component-driven architecture, shared design systems, team boundaries |
+| ⚡ Next.js | Choosing between SSR, SSG, and ISR, SEO and rendering performance |
+| 🧪 Frontend testing | Jest, React Testing Library, Cypress strategies that don't slow teams down |
+| 🏛️ Government-scale apps | Role-based dashboards, security and confidentiality in regulated systems |
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass,redux,tailwind,bootstrap,materialui,figma&perline=12)
+<br>
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+![Redux-Saga](https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=redux-saga&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Micro Frontends](https://img.shields.io/badge/Micro_Frontends-2563eb?style=flat-square)
+
+**Backend & APIs**
+
+![Node](https://skillicons.dev/icons?i=nodejs,express,python,mongodb,graphql&perline=12)
+![REST](https://img.shields.io/badge/REST_APIs-0f172a?style=flat-square)
+![Cosmos DB](https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**AI Integration**
+
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![LLM Agents](https://img.shields.io/badge/LLM_Agents-7c3aed?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-7c3aed?style=flat-square)
+![Web MCP](https://img.shields.io/badge/Web_MCP-7c3aed?style=flat-square)
+![A2UI](https://img.shields.io/badge/A2UI-7c3aed?style=flat-square)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+
+**Testing, Cloud & DevOps**
+
+![DevOps](https://skillicons.dev/icons?i=jest,cypress,azure,aws,docker,kubernetes,gitlab,git,jira&perline=12)
+
+## 🧱 How I Build AI-Powered Frontends
+
+A simplified view of the pattern behind my current work (illustrative, no proprietary details):
+
+```mermaid
+flowchart LR
+    U["User Dashboard<br/>Next.js + React + TypeScript"] -->|actions| S["Redux-Saga<br/>state + side effects"]
+    S -->|REST| API["Node.js / Express APIs"]
+    API -->|prompts + context| AG["LLM-based AI Agents<br/>Azure OpenAI"]
+    AG -->|insights| API
+    API -->|responses| S
+    S -->|real-time updates| U
+```
+
+## 🚀 Featured Work
+
+### 🛗 Schindler AI · *2024 – Present*
+AI-driven **predictive maintenance** for elevator systems.
+- Integrated **70+ AI agents** into frontend workflows
+- Role-based dashboards for equipment health, repair durations, and repair trends
+- Real-time data visualization turning AI reports into faster decisions
+- **Result:** ~20% fewer repeat service calls
+- **Stack:** Next.js · React · TypeScript · Ant Design · Redux-Saga · Node.js · Azure · GitLab CI/CD · Docker
+
+### 🚔 CCTNS V2, Telangana Police · *2021 – 2024*
+Statewide crime and criminal tracking platform used by investigation teams.
+- Built FIR Creation & Transfer, Petition Management, Investigation Tracking, Charge Sheet Filing, and reporting modules
+- Role-based dashboards with strict data-confidentiality compliance
+- Recognized with a **Commendation for Excellence from ADGP Telangana**
+
+> 🔒 These are enterprise/government projects, so source code is private. Happy to discuss the architecture and lessons learned.
+
+## 📦 Open Source & Side Projects
+
+| Project | Description |
+|---|---|
+| [Web-Project](https://github.com/dubeyrishabh874/Web-Project) | User Admin Portal (JavaScript) |
+| [Action-Board-Framework](https://github.com/dubeyrishabh874/Action-Board-Framework) | TypeScript project |
+| [Ram-Portfolio](https://github.com/dubeyrishabh874/Ram-Portfolio) | Personal portfolio (TypeScript) |
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/dubeyrishabh874">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dubeyrishabh874&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+</a>
+<a href="https://github.com/dubeyrishabh874">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubeyrishabh874&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</a>
+
+</div>
+
+## 🎖️ Recognition
+
+- 🏆 **Team of the Year (2025)**, Schindler Global SIS GAS Team
+- ⭐ **Star Performer Award (2024)**, Schindler AI
+- 🥇 **Commendation for Excellence**, ADGP Telangana (CCTNS V2)
+- 🌟 **Employee of the Month**, Innoright Solution
+
+## 🤝 Let's Connect
+
+I enjoy conversations about **AI in the frontend, Micro Frontends, Next.js, and building products that scale**. If you're working on something similar, or just want to compare notes, reach out on [LinkedIn](https://www.linkedin.com/in/rishabh-dubeyy/) or [email me](mailto:dubeyrishabh874@gmail.com).
+
+<div align="center">
+
+
+</div>
